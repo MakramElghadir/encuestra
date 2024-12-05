@@ -27,3 +27,13 @@ Necesitamos crear un backend con las sigentes characteristicas:
     "rating": "good",
     "message": "lo que sea"
 ´´´
+
+En rating solo pueden llegar tres valores posibles:
+
+-good
+-neutral
+-bad
+
+En message:
+
+-Maximo 256 caracteres
