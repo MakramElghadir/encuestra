@@ -22,3 +22,8 @@ Necesitamos crear un backend con las sigentes characteristicas:
 ### POST/api/reviews?rating="good"&message="ta flama"
 
 -Endpoint para recibir los datos del usuario
+
+```json
+    "rating": "good",
+    "message": "lo que sea"
+´´´
