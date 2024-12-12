@@ -1,0 +1,24 @@
+{
+  "name": "encuestra",
+  "version": "1.0.0",
+  "description": "Necesitamos crear un backend con las sigentes characteristicas: -Servir archivos estaticos (index, login, vizualizaciones...) -Poder almanezar users -Poder almanezar reviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakramElghadir/encuestra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakramElghadir/encuestra/issues"
+  },
+  "homepage": "https://github.com/MakramElghadir/encuestra#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
