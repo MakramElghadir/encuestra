@@ -35,5 +35,5 @@ En rating solo pueden llegar tres valores posibles:
 -bad
 
 En message:
-
+s
 -Maximo 256 caracteres
